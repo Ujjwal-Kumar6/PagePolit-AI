@@ -1,0 +1,1 @@
+ALTER TABLE "web_data" RENAME TO "webdata";
